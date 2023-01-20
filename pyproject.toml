@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["vladislavshokorov <valsshokorov@gmail.com>"]
 readme = "README.md"
-packages = [{include = "tig"}]
+packages = [{include = "ts-generator"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
